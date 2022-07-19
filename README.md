@@ -12,4 +12,4 @@ $ sudo chmod u+x love_msg.py <-- habit
 
 $ python3 love_msg.py
 
-$ sort cute, right?
+$ sorta cute, right?
