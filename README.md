@@ -17,7 +17,7 @@ $ sorta cute, right?
 https://docs.python.org/3/reference/                  // python reference
 
 
-https://developers.google.com/womentechmake           //Women in tech make!
+https://developers.google.com/womentechmake           // Women in tech make!
 
 
 image credit: unknown 
