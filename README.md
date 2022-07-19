@@ -11,3 +11,5 @@ $ sudo wget -c https://raw.githubusercontent.com/dev-tek/love_messenger/main/lov
 $ sudo chmod u+x love_msg.py <-- habit
 
 $ python3 love_msg 
+
+$ sort cute, right?
