@@ -8,7 +8,7 @@ Cute python script
 
 $ sudo wget -c https://raw.githubusercontent.com/dev-tek/love_messenger/main/love_msg.py
 
-$ sudo chmod u+x love_msg.py                           <-- habit
+$ sudo chmod u+x love_msg.py                           
 
 $ python3 love_msg.py
 
